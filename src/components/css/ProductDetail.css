@@ -1,0 +1,39 @@
+.product-view {
+    display: flex;
+    align-items: center;
+    width: 300px;
+    height: 380px;
+    padding-left: 10px;
+    margin: 50px auto;
+    text-align: center;
+    background-color: #787878;
+    border-radius: 10px;
+}
+
+.product-data {
+    width: 200px;
+    height: 80px;
+    padding: 5px;
+    margin: 0 auto;
+    margin-bottom: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+.product-name {
+    margin: 0 0 5px;
+    font-size: 30px;
+}
+
+.product-info {
+    width: 50%;
+    height: 20%;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    margin: 0 auto;
+    font-size: 15px;
+    margin-bottom: -10px;
+    text-align: left;
+}

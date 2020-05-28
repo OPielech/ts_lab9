@@ -1,0 +1,12 @@
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    width: 250px;
+    height: 360px;
+    padding: 10px;
+    margin: 40px auto;
+    background-color: #787878;
+    overflow: scroll;
+}
